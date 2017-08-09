@@ -1,9 +1,5 @@
 ///CSE50-Data Communication Project
 ///Selective Reject CRC-16 Implementation
-///Team Members: Razwan Ahmed Tanvir (2015-1-60-111),
-///              Sharfi Rahman (2015-1-60-134),
-///              Anika Tabassum (2015-1-60-136),
-///              Moontaha(2015-1-60-)
 ///Author:       Razwan Ahmed Tanvir
 ///Email:        razwantanvir8050@gmail.com
 ///================================================================================================================

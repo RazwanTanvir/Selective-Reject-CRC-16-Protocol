@@ -1,4 +1,3 @@
-///Developed by team- AlephNull
 ///CSE50-Data Communication Project
 ///Selective Reject CRC-16 Implementation
 ///Team Members: Razwan Ahmed Tanvir (2015-1-60-111),
